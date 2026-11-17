@@ -1,0 +1,88 @@
+Structure du dossier pour le volume New Volume
+Le numéro de série du volume est 4445-4ACE
+D:.
+|   arborescence.txt
+|   dev2_PATRON_ABSTRACT_FACTORY_CHIENDJE_KOYEU_LEONEL.docx
+|   README.md
+|   
++---.vscode
+|       settings.json
+|       
++---lib
+\---src
+    +---exemple2_du_cours
+    |   |   AbstractFactory.java
+    |   |   App.java
+    |   |   Automobile.java
+    |   |   AutomobileElectrique.java
+    |   |   AutomobileEssence.java
+    |   |   Client.java
+    |   |   exemple2_du_cours.dia
+    |   |   exemple2_du_cours.jpeg
+    |   |   exemple_du_cours.dia~
+    |   |   FactoryElectrique.java
+    |   |   FactoryEssence.java
+    |   |   Scooter.java
+    |   |   ScooterElectrique.java
+    |   |   ScooterEssence.java
+    |   |   
+    |   \---.vscode
+    |           extensions.json
+    |           
+    +---exemple_du_cours
+    |       App.java
+    |       Client.java
+    |       exemple_du_cours.dia
+    |       exemple_du_cours.dia~
+    |       exemple_du_cours.jpeg
+    |       FabriqueAbstraite.java
+    |       Factory1.java
+    |       Factory2.java
+    |       ProduitA.java
+    |       ProduitA1.java
+    |       ProduitA2.java
+    |       ProduitB.java
+    |       ProduitB1.java
+    |       ProduitB2.java
+    |       
+    +---exemple_du_cours_modifie
+    |       App.java
+    |       Client.java
+    |       exemple1_du_cours_modifie.dia
+    |       exemple1_du_cours_modifie.dia~
+    |       exemple1_du_cours_modifie.jpeg
+    |       exemple_du_cours.dia~
+    |       exemple_du_cours.jpeg
+    |       FabriqueAbstraite.java
+    |       Factory1.java
+    |       Factory2.java
+    |       Factory3.java
+    |       ProduitA.java
+    |       ProduitA1.java
+    |       ProduitA2.java
+    |       ProduitA3.Java
+    |       ProduitB.java
+    |       ProduitB1.java
+    |       ProduitB2.java
+    |       ProduitB3.java
+    |       ProduitC.java
+    |       ProduitC1.java
+    |       ProduitC2.java
+    |       ProduitC3.java
+    |       
+    \---modele_generique
+            App.java
+            Client.java
+            FAbriqueAbstraite.java
+            FAbriqueConcrete2.java
+            FabriqueConcretre1.java
+            Modele_genereique.dia
+            Modele_genereique.dia~
+            Modele_genereique.jpeg
+            ProduitA.java
+            ProduitA1.java
+            ProduitA2.java
+            ProduitB.java
+            ProduitB1.java
+            ProduitB2.java
+            
